@@ -2,9 +2,9 @@
 
 Development Platform:
 
-Unity Version: 2018.2.14f1
+ - Unity Version: 2018.2.14f1
 
-Visual Studio 15.9.4
+ - Visual Studio 15.9.4
 
 Target Platform: WebGL
 
